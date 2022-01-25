@@ -8,4 +8,4 @@ Change URL database information to send the information in base64
     
 ## Xammp - htdocs
 
-Use the file "writeClassImg.php" in the Apache server. The files .htaccess allows access to apache without CORS errors and using only the file "imgRead.php" using the variable "imageName=img"
+Use the file "writeClassImg.php" in the Apache server. The first ".htaccess" allows access to apache without CORS errors. The second ".htaccess" allows access to image only using the file "imgRead.php" through the variable "imageName=img"
