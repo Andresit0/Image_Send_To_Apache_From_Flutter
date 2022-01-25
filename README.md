@@ -4,7 +4,7 @@
 
 ## Flutter App
 
-Change database information to send the information in base64
+Change URL database information to send the information in base64
     
 ## Xammp - htdocs
 
